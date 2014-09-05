@@ -1,0 +1,30 @@
+## Every question you have about computers, technology, programming, and this course.
+
+- Could I code a tangible object?
+- Is programming more of a science or an art?
+- Which programming level will we achieve?
+- Is the entire class coding?
+- Will we be learning HTML?
+- Can I create a program that will reword wikipedia articles to write my essays for me?
+- Is programming very different between different OS, especially mobile?
+- How long does it take to create a successfull program?
+- How do you think programming will change in the future?
+- Difference between creating a website, and one with programming? what is it made out of?
+- Is it possible to understanding, when I had trouble coding before?
+- Are we going to make apps for phones or the computer?
+- Why can zip files open easily in macs but not rar file?
+- What would we be expected to know on the job as a graphic designer specifically, or any designer?
+- How acceptable is it to share code in the real world?
+- Can you own a piece of code?
+- Is learning javascript and HTML together reinforce each other?
+- I am interested in print work and typography, how will this class help me?
+- Is javascript easier than html?
+- Is coding and programming the same thing?
+- Can you bring an oculus rift?
+- Why are there different languages? Do we need to know all?
+- How does google glass work?
+- What are useful timesavers when coding?
+- How hard is it to get an app into the app store?
+- How much is a domain name?What do I do once I have a domain name?
+- What do I need to do to put a website on the internet?
+- Do we need a server?
