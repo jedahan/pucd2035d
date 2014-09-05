@@ -87,19 +87,14 @@ Below is a rough outline of the semester, subject to change. It will be updated 
 
 For the first assignment we will have to write a program designed to be executed by a human. You can write this in any language, but the final output must be created only by handing a person a sheet of paper. We will review our experiences after 30 minutes, discussing what programming concepts we have discovered. The final version of this assignment will be due in 2 weeks.
 
-10 minutes - overview of syllabus  
-30 minutes - program a friend  
-20 minutes - basic concepts - control structures, data, algorithms, language
-STUDIO TIME
-15 minutes - all your technology questions, on the board (do we even have a white/chalkboard?)
-
-#### Example questions
-
-* How does this program work?
-* Why does this program have this bug?
-* What is the difference between X and Y?
-* I've heard of Z, wtf is it?
-
+Syllabus Overview (30 minutes)
+Program a friend explanation (15 minutes)
+Programming (45 minutes)
+Discussion of basic concepts (30 minutes)
+ - We identified variables, and loops.
+ - We talked about compilers, and operating systems.
+What are your questions about technology? (30 minutes)
+ - Here is [the list of questions we came up with](questions.md)
 
 #### Class `0x01`
 
