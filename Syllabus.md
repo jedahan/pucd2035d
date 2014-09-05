@@ -44,7 +44,6 @@ Each week there will be a small exercises to help reinforce the ideas introduced
 **30%** assignments,
 **20%** final project
 
-
 ### Topics
 
 We will cover at least the following topics in depth:
@@ -60,7 +59,7 @@ We will cover at least the following topics in depth:
 An sample of interesting projects and artwork to act as inspiration for the assignments.
 The exercises will help ensure working knowledge to incorporate these elements in future work.
 
-Depending on the character and interests of the class, we can cover additional topics such as security,
+Depending on the character and interests of the class, we can cover additional topics such as security, embedded systems, functional programming, node-based programming, wireless communication, bitcoin and the blockchain, bittorrent.
 
 ### Exercises
 
