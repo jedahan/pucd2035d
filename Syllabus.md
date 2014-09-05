@@ -93,6 +93,14 @@ For the first assignment we will have to write a program designed to be executed
 STUDIO TIME
 15 minutes - all your technology questions, on the board (do we even have a white/chalkboard?)
 
+#### Example questions
+
+* How does this program work?
+* Why does this program have this bug?
+* What is the difference between X and Y?
+* I've heard of Z, wtf is it?
+
+
 #### Class `0x01`
 
 Languages and language design. Introduce javascript.
