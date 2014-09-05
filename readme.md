@@ -102,21 +102,21 @@ What are your questions about technology? (30 minutes)
 
 Languages and language design. Introduce javascript.
 
-**Exercise** come up with a metaphor for a programming concept / program in a language you have never programmed before
-**Inspiration** Show the same program in python, bash, piet, clojure, javascript, maybe with wikicode
-**Motivation** get familiar with all the ways to express a concept
+**Exercise** come up with a metaphor for a programming concept / program in a language you have never programmed before  
+**Inspiration** Show the same program in python, bash, piet, clojure, javascript, maybe with wikicode  
+**Motivation** get familiar with all the ways to express a concept  
 
 #### Class `0x02`
 
-**motivation** introduction to how operating systems work
-**inspiration** kyle macdonald, r/glitchart
+**motivation** introduction to how operating systems work  
+**inspiration** kyle macdonald, r/glitchart  
 
 What is a file? We will create glitches
 
 #### Class `0x03`
 
-**motivation**: quick prototypes, reuse of tools, composability, imperative programming
-**inspirations** cat /dev/urandom > /dev/dsp, edit a file
+**motivation**: quick prototypes, reuse of tools, composability, imperative programming  
+**inspirations** cat /dev/urandom > /dev/dsp, edit a file  
 The command line
 
 30 minutes - tools and pipes
