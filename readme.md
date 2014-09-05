@@ -96,7 +96,7 @@ Discussion of basic concepts (30 minutes)
  - We identified variables, and loops.
  - We talked about compilers, and operating systems.
 What are your questions about technology? (30 minutes)
- - Here is [the list of questions we came up with](questions.md)
+ - Here is [the list of questions we came up with](https://github.com/jedahan/pucd2035d/blob/master/questions.md)
 
 #### Class `0x01`
 
