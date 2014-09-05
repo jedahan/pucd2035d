@@ -90,6 +90,7 @@ For the first assignment we will have to write a program designed to be executed
 Syllabus Overview (30 minutes)
 Program a friend explanation (15 minutes)
 Programming (45 minutes)
+ - My [sample program](0x01_human_program.md)
 Discussion of basic concepts (30 minutes)
  - We identified variables, and loops.
  - We talked about compilers, and operating systems.
