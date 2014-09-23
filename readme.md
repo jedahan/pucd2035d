@@ -68,7 +68,7 @@ Depending on the character and interests of the class, we can cover additional t
 **Assignment** Create a program designed to be executed by a human  
 **Motivation** Language design, machine empathy, common elements  
 **Inspiration** Sol LeWitt  
-**Excercise** Sign up for github, file an issue for the class
+**Excercise** Sign up for github, file an issue for the class  
 
 For the first assignment we will have to write a program designed to be executed by a human. You can write this in any language, but the final output must be created only by handing a person a sheet of paper. We will review our experiences after 30 minutes, discussing what programming concepts we have discovered. The final version of this assignment will be due in 2 weeks.
 
@@ -87,7 +87,7 @@ What are your questions about technology? (30 minutes)
 
 Intro to languages and javascript.
 
-**Exercise** Deface a website using jquery $.text and $.attr
+**Exercise** Deface a website using jquery $.text and $.attr  
 **Inspiration** _why's poignant guide to ruby
 **Motivation** Look at websites as raw materials
 
@@ -132,15 +132,22 @@ Learn how APIs work, and continued use to create new work.
 
 ### `0x08` Glitches
 
-**Inspiration** Girl talk, ART404  
+Push the limits of our software to unexpected ends.
 
-Software as tools for reappropriation  
+**Inspiration** Girl talk, ART404, Clement Vala  
+**Motivation** Software as a tool for reappropriation  
 
 #### Class `0x09`
 
+Work Day
+
 #### Class `0x0A`
 
+Work Day
+
 #### Class `0x0B`
+
+Project Review #1
 
 #### Class `0x0C`
 
@@ -151,7 +158,11 @@ while(! self.sleeping()):
 
 ### Class `0x0D`
 
+Work Day
+
 ### Class `0x0E`
+
+Final Project Presentations
 
 ## Supplementary Excercises
 
