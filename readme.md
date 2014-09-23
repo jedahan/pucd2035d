@@ -61,19 +61,6 @@ The exercises will help ensure working knowledge to incorporate these elements i
 
 Depending on the character and interests of the class, we can cover additional topics such as security, embedded systems, functional programming, node-based programming, wireless communication, bitcoin and the blockchain, bittorrent.
 
-### Exercises
-
-Possible exercises
-
-- Watch [Robert Hodgins' Keynote]()
-- Contribute to a github repository
-  - contribute to a project with at least 15 stars on github?
-- Add an element of interactivity to an existing website
-- make bash script with at least 3
-- programming metaphors
-- use ifttt to make a new application
-- Read the first 3 chapters of [Code: The Hidden Language of Computer Hardware and Software](http://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
-
 ### Course Outline
 
 #### `0x00` Hello, Human
@@ -165,3 +152,11 @@ while(! self.sleeping()):
 ### Class `0x0D`
 
 ### Class `0x0E`
+
+## Supplementary Excercises
+
+- Watch Robert Hodgins' Keynote
+- make bash script with at least 3 other programs
+- programming metaphors
+- use ifttt to make a new application
+- Read the first 3 chapters of Code: The Hidden Language of Computer Hardware and Softwar
