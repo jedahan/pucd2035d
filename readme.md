@@ -40,8 +40,8 @@ Per New School policy, 3 or more absences or excessive tardiness will result in 
 Each week there will be a small exercises to help reinforce the ideas introduced in class. In addition, there will be three more open ended assignments, that will take more time to complete. There will be one final personal project, that can be started anytime during the course. Grades are broken down as follows
 
 **20%** attendance and participation,
-**30%** exercises,
-**30%** assignments,
+**40%** exercises,
+**20%** assignments,
 **20%** final project
 
 ### Topics
@@ -72,13 +72,11 @@ Possible exercises
 - make bash script with at least 3
 - programming metaphors
 - use ifttt to make a new application
-- Read the first 3 chapets of [Code: The Hidden Language of Computer Hardware and Software](http://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
+- Read the first 3 chapters of [Code: The Hidden Language of Computer Hardware and Software](http://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
 
 ### Course Outline
 
-Below is a rough outline of the semester, subject to change. It will be updated throughout the semester. Feedback
-
-#### Class `0x00`
+#### `0x00` Hello, Human
 
 **Assignment** Create a program designed to be executed by a human  
 **Motivation** Language design, machine empathy, common elements  
@@ -98,54 +96,58 @@ Discussion of basic concepts (30 minutes)
 What are your questions about technology? (30 minutes)
  - Here is [the list of questions we came up with](https://github.com/jedahan/pucd2035d/blob/master/questions.md)
 
-#### Class `0x01`
+#### `0x01` Computer Empathy
 
-Languages and language design. Introduce javascript.
+Intro to languages and javascript.
 
-**Exercise** come up with a metaphor for a programming concept / program in a language you have never programmed before  
-**Inspiration** Show the same program in python, bash, piet, clojure, javascript, maybe with wikicode  
-**Motivation** get familiar with all the ways to express a concept  
+**Exercise** Deface a website using jquery $.text and $.attr
+**Inspiration** _why's poignant guide to ruby
+**Motivation** Look at websites as raw materials
 
-#### Class `0x02`
+Defacements have been posted to github.
 
-**motivation** introduction to how operating systems work  
-**inspiration** kyle macdonald, r/glitchart  
+#### `0x02` What is data? What is code?
 
-What is a file? We will create glitches
+Learn about binary numbers, and other data types.
 
-#### Class `0x03`
+**motivation** Introduction to how operating systems work  
+**inspiration** Raphael Hemmer
+
+#### `0x03` The filesystem and commandline
 
 **motivation**: quick prototypes, reuse of tools, composability, imperative programming  
-**inspirations** cat /dev/urandom > /dev/dsp, edit a file  
+**inspiration** cat /dev/urandom > /dev/{dsp,fb0}, hex edit a file  
 The command line
 
-30 minutes - tools and pipes
-30 minutes - navigation and documentation
+CLI tools and how to use pipes pipes  
+Navigation of the filesystem and how to read documentation  
 
 Show commandlinefu, stack overflow, manpages  
-What commands to teach?
 
-#### Class `0x04`
+#### `0x04` Lets make circles!
 
-networks and communication
+Introduction to p5.js, and servers   
+What is html/css/javascript? How can we draw with javascript?  
+What is a server? We run our own servers.  
 
-**motivation** be able to tap into the wealth of data out there
+#### `0x05` Crazier data circles
 
-in this class, we do APIs :)
+Drawings into interaction  
+Turn our javascript sketches into full blown interactives  
 
-###Class `0x05`
+#### `0x06` Networked circles!
+
+Revisit data types, and connect data to visualisations  
+
+#### `0x07` Networks and Communication
+
+Learn how APIs work, and continued use to create new work.  
+
+### `0x08` Glitches
+
+**Inspiration** Girl talk, ART404  
 
 Software as tools for reappropriation  
-Create a new piece of work only by combining existing data sources from the web
-
-**Motivation** APIs
-**Inspiration** Girl talk, ART404
-
-#### Class `0x06`
-
-#### Class `0x07`
-
-#### Class `0x08`
 
 #### Class `0x09`
 
