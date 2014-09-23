@@ -130,39 +130,40 @@ Revisit data types, and connect data to visualisations
 
 Learn how APIs work, and continued use to create new work.  
 
-### `0x08` Glitches
+#### `0x08` Glitches
 
 Push the limits of our software to unexpected ends.
 
 **Inspiration** Girl talk, ART404, Clement Vala  
 **Motivation** Software as a tool for reappropriation  
 
-#### Class `0x09`
+#### `0x09` Work day
 
-Work Day
+Design thinking / brainstorming
 
-#### Class `0x0A`
+#### `0x0A` Work day
 
-Work Day
+Code code code
 
-#### Class `0x0B`
+#### `0x0B` Review and Documentation
 
-Project Review #1
+The importance of writing documentation, different writing styles.  
+Group review of each others WIPs.
 
-#### Class `0x0C`
+#### `0x0C` TURKEY DAY
 
 ```python
 while(! self.sleeping()):
   eat(turkey || tofurkey)
 ```
 
-### Class `0x0D`
+#### `0x0D` Work Day
 
 Work Day
 
-### Class `0x0E`
+#### `0x0E` Presentations
 
-Final Project Presentations
+Presentations of documentation
 
 ## Supplementary Excercises
 
