@@ -44,6 +44,25 @@ Each week there will be a small exercises to help reinforce the ideas introduced
 **20%** assignments,
 **20%** final project
 
+### Grading Scale
+
+Work will be assigned one of the following letter grades
+
+**A** Work of exceptional quality, which goes beyond the stated goals of the course.
+**A-, B+** Very high quality work, substantially above the average.
+**B** Very good work that satisfies the goals of the course
+**B-, C+** Above-average work.
+**C** Average work that demonstates an understanding of the course material. Student fulfills the letter but not the spirit of the assignment, and is unwilling to re-work or refine projects.
+**C-** Passing work but below that required for good academic standing.
+**D** Below average work indicating that a student does not fully understand the assignments.
+**F** Failure; No Credit. Missing more than 3 classes, not being attendive in class, not participating in class discussions, not working, missing more than 25% of the projects/discussions.
+
+**W** Withdrawal: Can be assigned only by the Registration Office
+
+**I** Incomplete: signifying a temporary deferment of a regular grade, may be assigned when coursework has been delayed at the end of the semester for unavoidable and legitimate reasons.
+
+
+
 ### Topics
 
 We will cover at least the following topics in depth:
